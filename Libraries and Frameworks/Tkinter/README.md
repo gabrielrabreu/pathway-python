@@ -13,7 +13,7 @@ Tkinter is a powerful library for creating graphical user interfaces in Python. 
 
 ## Contributions
 
-This section is open to contributions. If you have suggestions, corrections, or additional content related to error handling in Python that you'd like to contribute, please follow the guidelines in the [Contributing](../../Contributing.md) section.
+This section is open to contributions. If you have suggestions, corrections, or additional content related to Tkinter in Python that you'd like to contribute, please follow the guidelines in the [Contributing](../../Contributing.md) section.
 
 ## License
 

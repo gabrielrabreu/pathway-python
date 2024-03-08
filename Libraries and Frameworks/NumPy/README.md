@@ -15,7 +15,7 @@ Please refer to the specific files in this section for detailed examples and dem
 
 ## Contributions
 
-This section is open to contributions. If you have suggestions, corrections, or additional content related to error handling in Python that you'd like to contribute, please follow the guidelines in the [Contributing](../../Contributing.md) section.
+This section is open to contributions. If you have suggestions, corrections, or additional content related to NumPy in Python that you'd like to contribute, please follow the guidelines in the [Contributing](../../Contributing.md) section.
 
 ## License
 
