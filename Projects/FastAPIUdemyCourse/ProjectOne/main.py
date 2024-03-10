@@ -61,7 +61,7 @@ async def update_book(updated_book=Body()):
 
 
 @app.delete("/books/{book_id}")
-async def create_book(book_id: int):
+async def delete_book(book_id: int):
     book_to_delete = next(filter(lambda book: book["id"] == book_id, BOOKS), None)
     if book_to_delete is not None:
         BOOKS.remove(book_to_delete)
